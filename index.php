@@ -80,8 +80,8 @@ if (isLoggedIn()) redirect('user/dashboard.php');
     
     <div class="hero">
         <div class="logo">🎌</div>
-        <div class="logo-text">NihonGo! - GitHub!!</div>
-        <div class="logo-jp">日本語を学ぼう</div>
+        <div class="logo-text">NihonGo! 🎌</div>
+        <div class="logo-jp">日本語を楽しく学ぼう</div>
         <p class="hero-desc">Belajar bahasa Jepang dengan cara yang menyenangkan! Seperti bermain game, kumpulkan XP, jaga streak harian, dan kuasai bahasa Jepang. Ayo mulai sekarang!</p>
         
         <div class="hero-stats">
